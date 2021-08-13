@@ -1,0 +1,18 @@
+{
+  "id": 1974080145,
+  "category": {
+    "id": 1,
+    "name": "AX2345LORT"
+  },
+  "name": "Atena",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210812,
+      "name": "data"
+    }
+  ],
+  "status": "sold"
+}
